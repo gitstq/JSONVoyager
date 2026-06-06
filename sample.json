@@ -1,0 +1,53 @@
+{
+  "project": "JSONVoyager",
+  "version": "1.0.0",
+  "author": {
+    "name": "gitstq",
+    "github": "https://github.com/gitstq",
+    "email": null
+  },
+  "features": [
+    "Interactive TUI",
+    "Tree View",
+    "Flat View",
+    "Table View",
+    "Search & Filter",
+    "Export (JSON/CSV/YAML)",
+    "Zero Dependencies"
+  ],
+  "stats": {
+    "lines_of_code": 450,
+    "files": 5,
+    "test_coverage": 85.5,
+    "is_open_source": true,
+    "license": "MIT"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Chen",
+      "role": "developer",
+      "active": true,
+      "score": 95.5
+    },
+    {
+      "id": 2,
+      "name": "Bob Wang",
+      "role": "designer",
+      "active": false,
+      "score": 78.0
+    },
+    {
+      "id": 3,
+      "name": "Carol Liu",
+      "role": "manager",
+      "active": true,
+      "score": 88.2
+    }
+  ],
+  "metadata": {
+    "created_at": "2025-06-06T10:00:00Z",
+    "updated_at": "2025-06-06T12:30:00Z",
+    "tags": ["cli", "json", "terminal", "tui", "python"]
+  }
+}
